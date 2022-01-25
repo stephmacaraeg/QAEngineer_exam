@@ -7,8 +7,8 @@ SetUp Steps/Running the test in VS Studio
 1. Once you're on this link: https://github.com/stephmacaraeg/fastjobsexam
 2. Click the Code button and choose Download Zip.
 3. Extract the downloaded file.
-4. Navigate to the Exam.sln file. Sample path: C:\Users\username\sampleFolder\qaengineerexam-main\qaengineerexam-main\
-5. Open the Exam.sln file.
+4. Navigate to the FastJobsExam.sln file. Sample path: C:\Users\User\fastjobsexam\FastJobsExam
+5. Open the FastJobsExam.sln file.
 6. If a security warning is displayed, click the OK button.
 7. Once the the project is fully loaded, navigate to the Solution Explorer, right click the Solution 'Exam' and choose Manage Nuget Packages for Solution.
 8. On the Nuget - Solution page click the Installed tab.
