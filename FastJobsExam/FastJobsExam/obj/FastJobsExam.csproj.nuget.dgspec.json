@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Stephu\\source\\repos\\FastJobsExam\\FastJobsExam\\FastJobsExam.csproj": {}
+    "C:\\Users\\Stephu\\fastjobsexam\\FastJobsExam\\FastJobsExam\\FastJobsExam.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Stephu\\source\\repos\\FastJobsExam\\FastJobsExam\\FastJobsExam.csproj": {
+    "C:\\Users\\Stephu\\fastjobsexam\\FastJobsExam\\FastJobsExam\\FastJobsExam.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Stephu\\source\\repos\\FastJobsExam\\FastJobsExam\\FastJobsExam.csproj",
+        "projectUniqueName": "C:\\Users\\Stephu\\fastjobsexam\\FastJobsExam\\FastJobsExam\\FastJobsExam.csproj",
         "projectName": "FastJobsExam",
-        "projectPath": "C:\\Users\\Stephu\\source\\repos\\FastJobsExam\\FastJobsExam\\FastJobsExam.csproj",
+        "projectPath": "C:\\Users\\Stephu\\fastjobsexam\\FastJobsExam\\FastJobsExam\\FastJobsExam.csproj",
         "packagesPath": "C:\\Users\\Stephu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Stephu\\source\\repos\\FastJobsExam\\FastJobsExam\\obj\\",
+        "outputPath": "C:\\Users\\Stephu\\fastjobsexam\\FastJobsExam\\FastJobsExam\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -55,6 +55,22 @@
             "NUnit3TestAdapter": {
               "target": "Package",
               "version": "[3.17.0, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[97.0.4692.7100, )"
+            },
+            "SeleniumExtras.WaitHelpers": {
+              "target": "Package",
+              "version": "[1.0.2, )"
             },
             "coverlet.collector": {
               "target": "Package",
