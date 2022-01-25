@@ -33,6 +33,9 @@ See reference links below:
 - https://github.com/nunit/nunit-console/issues/487
 
 A simple work around is to use dotnet test. See instructions below.
+
+Pre-requisite: Your local should have the selenium webdriver package: 
+https://api.nuget.org/v3-flatcontainer/selenium.webdriver.chromedriver/97.0.4692.7100/selenium.webdriver.chromedriver.97.0.4692.7100.nupkg
 1. Open command prompt and input the following: 
 dotnet test <file path of the FastJobsExam.csproj> Ex.:
 ```
