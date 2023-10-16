@@ -1,4 +1,4 @@
-# fastjobsexam
+# fastjobs_exam
 Exam for QA Engineer role.
 Pre-Requisite/s:
 VS Studio should be installed.
